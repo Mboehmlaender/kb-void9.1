@@ -1,32 +1,32 @@
 <div align="center">
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Mboehmlaender/nano-binary-clock" alt="contributors" />
+  <a href="https://github.com/Mboehmlaender/kb-void9.1/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Mboehmlaender/kb-void9.1" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Mboehmlaender/nano-binary-clock" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/Mboehmlaender/kb-void9.1" alt="last update" />
   </a>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/network/members">
-    <img src="https://img.shields.io/github/forks/Mboehmlaender/nano-binary-clock" alt="forks" />
+  <a href="https://github.com/Mboehmlaender/kb-void9.1/network/members">
+    <img src="https://img.shields.io/github/forks/Mboehmlaender/kb-void9.1" alt="forks" />
   </a>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/stargazers">
-    <img src="https://img.shields.io/github/stars/Mboehmlaender/nano-binary-clock" alt="stars" />
+  <a href="https://github.com/Mboehmlaender/kb-void9.1/stargazers">
+    <img src="https://img.shields.io/github/stars/Mboehmlaender/kb-void9.1" alt="stars" />
   </a>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/issues/">
-    <img src="https://img.shields.io/github/issues/Mboehmlaender/nano-binary-clock" alt="open issues" />
+  <a href="https://github.com/Mboehmlaender/kb-void9.1/issues/">
+    <img src="https://img.shields.io/github/issues/Mboehmlaender/kb-void9.1" alt="open issues" />
   </a>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Mboehmlaender/nano-binary-clock.svg" alt="license" />
+  <a href="https://github.com/Mboehmlaender/kb-void9.1/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Mboehmlaender/kb-void9.1.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/Mboehmlaender/nano-binary-clock">Documentation</a>
+    <a href="https://github.com/Mboehmlaender/kb-void9.1">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Mboehmlaender/nano-binary-clock/issues/">Report Bug</a>
+    <a href="https://github.com/Mboehmlaender/kb-void9.1/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Mboehmlaender/nano-binary-clock/issues/">Request Feature</a>
+    <a href="https://github.com/Mboehmlaender/kb-void9.1/issues/">Request Feature</a>
   </h4>
 </div>
 
