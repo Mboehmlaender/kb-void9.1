@@ -36,10 +36,7 @@
   <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
   <h1>VOID9.1 Macropad</h1>
   
-  <p>
-    A 3x3 handwired macropad with RGB
-    <img src="assets/Void91.png" alt="open issues" />
-  </p>
+![VOID9](assets/VOID91.png)
 
 <!-- Table of Contents -->
 # Table of Contents
