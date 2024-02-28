@@ -37,7 +37,7 @@
   <p align="center">
     <img src="assets/Void91.png">
   </p>
-  
+
 <!-- Table of Contents -->
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -60,7 +60,12 @@ It is a remix of Victor Luchaci's awesome VOID9 macropad with some changes.
 At first i changed the default firmware from QMK to VIAL as there is a GUI for the configuration. Furthermore i added LED background lightning because, let's face it, RGB is 
 a must for a keyboard (no matter what size). 
 
-The original case is completely closed, so an RGB lightning would not be visible, so i sliced the original bottom part into two parts. The new bottom can be printed as usual but the smaller middle part will be translucent. I recommend [jlc3dp.com](https://jlc3dp.com/) for 3D printing (if you don't own a 3D printer). For the bottom and the top, i chose "Black Resin" and for the middle part "8001 resin" (translucent resin). 
+The original case is completely closed, so an RGB lightning would not be visible, so i sliced the original bottom part into two parts. 
+  <p align="center">
+    <img src="assets/Bottom.png">
+    <img src="assets/Middle.png">
+  </p>
+The new bottom can be printed as usual but the smaller middle part will be translucent. I recommend [jlc3dp.com](https://jlc3dp.com/) for 3D printing (if you don't own a 3D printer). For the bottom and the top, i chose "Black Resin" and for the middle part "8001 resin" (translucent resin). 
 
 Wiring the RGB strips might be a little bit difficult, as the case is quite tiny but it's doable. Maybe i will optimize the interior this in a future build.
 
