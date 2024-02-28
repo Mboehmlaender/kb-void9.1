@@ -34,9 +34,10 @@
 
   <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
   <h1>VOID9.1 Macropad</h1>
-  
-![VOID9](assets/Void91.png){ style="display: block; margin: 0 auto" }
- 
+  <p align="center">
+
+![VOID9](assets/Void91.png)
+ </p>
 <!-- Table of Contents -->
 # Table of Contents
 
