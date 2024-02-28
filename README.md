@@ -121,6 +121,21 @@ fix it to the top. Once the LEDs are in the case, you can't put it in anymore. A
 <!-- Software -->
 ### Software
 
+- [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
+- [QMK](https://qmk.fm/) (optional)
+- [VIAL](https://get.vial.today/) (optional)
+
+You can use either [QMK](https://qmk.fm/) or [VIAL](https://get.vial.today/) as the firmware for your board. I precompiled a hex-file for VIAL, so you can start right away by flashing it onto your board using [QMK Toolbox](https://github.com/qmk/qmk_toolbox).
+
+If you want to setup your own QMK or VIAL environment, you cann follow [this guide](https://docs.qmk.fm/#/newbs_getting_started) for QMK and [this guide](https://get.vial.today/docs/porting-to-vial.html) for VIAL. Just copy the "void91" folder to the "keyboards" folder in QMK/VIAL installation and build it by using either 
+
+```
+make void91:vial 
+```
+or
+```
+make void91:default
+```
 
 <!-- License -->
 ## License
