@@ -88,7 +88,7 @@ Wiring the RGB strips might be a little bit difficult, as the case is quite tiny
 - 9 x Cherry MX style mechanical switches
 - 9 x Keycaps of choice
 - 1 x Pro Micro
-- - WS218B LED strip (60 LEDs/m; 16,6mm between cuts) [(Aliexpress)](https://de.aliexpress.com/item/4000744445376.html?spm=a2g0o.productlist.main.5.1ef44a2fN1DIEn&algo_pvid=19ccae0e-8e38-4d39-b544-057817457e07&aem_p4p_detail=202402260500427915889042804340000272039&algo_exp_id=19ccae0e-8e38-4d39-b544-057817457e07-2&pdp_npi=4%40dis%21EUR%2111.25%216.41%21%21%2185.60%2148.79%21%402103847817089524425485363ed292%2112000034564427537%21sea%21DE%214748200527%21&curPageLogUid=CA89j6PWmQSM&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202402260500427915889042804340000272039_3)
+- WS218B LED strip (60 LEDs/m; 16,6mm between cuts) [(Aliexpress)](https://de.aliexpress.com/item/4000744445376.html?spm=a2g0o.productlist.main.5.1ef44a2fN1DIEn&algo_pvid=19ccae0e-8e38-4d39-b544-057817457e07&aem_p4p_detail=202402260500427915889042804340000272039&algo_exp_id=19ccae0e-8e38-4d39-b544-057817457e07-2&pdp_npi=4%40dis%21EUR%2111.25%216.41%21%21%2185.60%2148.79%21%402103847817089524425485363ed292%2112000034564427537%21sea%21DE%214748200527%21&curPageLogUid=CA89j6PWmQSM&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202402260500427915889042804340000272039_3)
 - 4 x 8mm bumpons
 - 6 x M2x3x3.5 OD heat inserts
 - 4 x M2x10 Allen head screws
