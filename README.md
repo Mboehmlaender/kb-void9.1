@@ -70,9 +70,9 @@ Wiring the RGB strips might be a little bit difficult, as the case is quite tiny
 <!-- Features -->
 ### Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- QMK or VIAL Firmware
+- Encoder Support
+- RGB
 
 <!-- Getting Started -->
 ## Getting Started
