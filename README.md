@@ -110,8 +110,20 @@ The original build guide can be found [here](https://victorlucachi.ro/journal/vo
 
 Please note, that the wiring is slightly different:
 
-- Columns: 0:D1, 1:D0, 2:D4,
-- Rows:    0:F6, 1:F5, 2:F4
+    ROW0    ROW1    ROW2
+    F6      F5      F4
+    
+    COL0    COL1    COL2
+    D1      D0      D4
+    
+    Optional:
+
+    Encoder Pad A           Encoder Pad B
+    B1                      F7
+    B2                      B3
+
+    RGB
+    D7
 
 For the RGB, i used 3 strips with 2 LEDs each and wired them together. I connected the DIN to PIN D7 of the Pro Micro.
 
@@ -127,7 +139,7 @@ fix it to the top. Once the LEDs are in the case, you can't put it in anymore. A
 
 You can use either [QMK](https://qmk.fm/) or [VIAL](https://get.vial.today/) as the firmware for your board. I precompiled a hex-file for VIAL, so you can start right away by flashing it onto your board using [QMK Toolbox](https://github.com/qmk/qmk_toolbox).
 
-If you want to setup your own QMK or VIAL environment, you cann follow [this guide](https://docs.qmk.fm/#/newbs_getting_started) for QMK and [this guide](https://get.vial.today/docs/porting-to-vial.html) for VIAL. Just copy the "void91" folder to the "keyboards" folder in QMK/VIAL installation and build it by using either 
+If you want to setup your own QMK or VIAL environment, you can follow [this guide](https://docs.qmk.fm/#/newbs_getting_started) for QMK and [this guide](https://get.vial.today/docs/porting-to-vial.html) for VIAL. Just copy the "void91" folder to the "keyboards" folder in QMK/VIAL installation and build it by using either 
 
 ```
 make void91:vial 
@@ -140,19 +152,18 @@ make void91:default
 <!-- License -->
 ## License
 
-Licensed under Creative Commons BY-SA 4.0 DEED
+Relased under GNU General Public License v2.0 or later
 
-This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-SA includes the following elements:
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
-Credit must be given to the creator.
-Adaptations must be shared under the same terms.
-
-[<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="117" height="41">](https://creativecommons.org/licenses/by-sa/4.0/)
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 <!-- Acknowledgments -->
 ## Acknowledgements
 
 Use this section to mention useful resources and libraries that you have used in your projects.
 
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/Louis3797/awesome-readme-template)
+- [Victor Lucachi](https://victorlucachi.ro/)
+- [VOID9](https://github.com/victorlucachi/void9)
+- [Shields.io](https://shields.io/)
+- [Awesome README](https://github.com/Louis3797/awesome-readme-template)
