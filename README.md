@@ -1,4 +1,4 @@
-<div align="center">sfsdf
+<div align="center">
 <!-- Badges -->
 <p>
   <a href="https://github.com/Mboehmlaender/kb-void9.1/graphs/contributors">
