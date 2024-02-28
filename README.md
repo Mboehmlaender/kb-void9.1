@@ -50,7 +50,6 @@
   * [Optional tools](#optional-tools)
 - [Build Guide](#build-guide)
 - [Software](#software)
-- [FAQ](#faq)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -119,16 +118,8 @@ For the RGB, i used 3 strips with 2 LEDs each and wired them together. I connect
 Attention: Before glueing the LEDs to the bottom of the case, make sure that the translucent part of the case is attached to the top part. Maybe use some scotch tape to
 fix it to the top. Once the LEDs are in the case, you can't put it in anymore. A solution to this would be to not solder the the Pro Micro directly but to put a 3-pin connector in between.
 
-<!-- FAQ -->
-## FAQ
-
-- Question 1
-
-  + Answer 1
-
-- Question 2
-
-  + Answer 2
+<!-- Software -->
+### Software
 
 
 <!-- License -->
