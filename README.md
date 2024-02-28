@@ -62,8 +62,8 @@ a must for a keyboard (no matter what size).
 
 The original case is completely closed, so an RGB lightning would not be visible, so i sliced the original bottom part into two parts. 
   <p align="center">
-    <img src="assets/Bottom.png">
-    <img src="assets/Middle.png">
+    <img width="200" src="assets/Bottom.png">
+    <img width="200"src="assets/Middle.png">
   </p>
 The new bottom can be printed as usual but the smaller middle part will be translucent. I recommend [jlc3dp.com](https://jlc3dp.com/) for 3D printing (if you don't own a 3D printer). For the bottom and the top, i chose "Black Resin" and for the middle part "8001 resin" (translucent resin). 
 
