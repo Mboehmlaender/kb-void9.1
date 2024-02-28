@@ -38,6 +38,7 @@
   
   <p>
     A 3x3 handwired macropad with RGB
+    <img src="assets/Void91.png" alt="open issues" />
   </p>
 
 <!-- Table of Contents -->
