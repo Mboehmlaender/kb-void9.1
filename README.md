@@ -127,8 +127,11 @@ Please note, that the wiring is slightly different:
 
 For the RGB, i used 3 strips with 2 LEDs each and wired them together. I connected the DIN to PIN D7 of the Pro Micro.
 
-Attention: Before glueing the LEDs to the bottom of the case, make sure that the translucent part of the case is attached to the top part. Maybe use some scotch tape to
-fix it to the top. Once the LEDs are in the case, you can't put it in anymore. A solution to this would be to not solder the the Pro Micro directly but to put a 3-pin connector in between.
+As i printed the case with resin, the countersunk screws can not be melted into the case wirh ther soldering iron. Use some hot glue or 2 components glue in the holes of the case top and let it dry before putting the screws in. Do not overtighten the screws.
+
+Attention: Before glueing the LEDs to the bottom of the case, make sure that the translucent part of the case is attached to the top part. Maybe use some scotch tape to fix it to the top. Once the LEDs are in the case, you can't put it in anymore. A solution to this would be to not solder the the Pro Micro directly but to put a 3-pin connector in between.
+
+Also the LED-strips must be bent over the Pro Micro holder as there is no space to glue it to the bottom. This could be changed in a future release by redoing the controller-mounts.
 
 <!-- Software -->
 ### Software
