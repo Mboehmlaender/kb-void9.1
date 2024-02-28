@@ -64,6 +64,8 @@ The original case is completely closed, so an RGB lightning would not be visible
   <p align="center">
     <img width="200" src="assets/Bottom.png">
     <img width="200"src="assets/Middle.png">
+    <img width="200" src="assets/Top_with_keycaps.png">
+
   </p>
 The new bottom can be printed as usual but the smaller middle part will be translucent. I recommend [jlc3dp.com](https://jlc3dp.com/) for 3D printing (if you don't own a 3D printer). For the bottom and the top, i chose "Black Resin" and for the middle part "8001 resin" (translucent resin). 
 
@@ -128,6 +130,11 @@ Please note, that the wiring is slightly different:
     D7
 
 For the RGB, i used 3 strips with 2 LEDs each and wired them together. I connected the DIN to PIN D7 of the Pro Micro.
+
+  <p align="center">
+    <img width="200" src="assets/Wiring.png">
+    <img width="200"src="assets/Top_assembled.png">
+  </p>
 
 As i printed the case with resin, the countersunk screws can not be melted into the case wirh ther soldering iron. Use some hot glue or 2 components glue in the holes of the case top and let it dry before putting the screws in. Do not overtighten the screws.
 
