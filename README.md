@@ -30,7 +30,6 @@
     <a href="https://github.com/Mboehmlaender/kb-void9.1/issues/">Request Feature</a>
   </h4>
 </div>
-
 <br />
 
   <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
