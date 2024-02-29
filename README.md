@@ -97,9 +97,8 @@ Wiring the RGB strips might be a little bit difficult, as the case is quite tiny
 <!-- Necessary tools -->
 ### Necessary tools
 
-- Wire (i used 22-24 AWG Wire)
+- Solder wire (i used 22-24 AWG Wire)
 - Soldering Iron (Mine: [YiHua 937D](https://www.amazon.de/dp/B07X2JC4S1?psc=1&ref=ppx_yo2ov_dt_b_product_details))
-- Solder wire
 - Hot glue or 2 components glue
    
 <!-- Optional tools -->
