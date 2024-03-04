@@ -55,7 +55,7 @@
 
 The VOID9.1 is a 3d printed, handwired, 3x3 macropad running VIAL (or QMK) Firmware on a Pro Micro controller.
 
-It is a remix of Victor Luchaci's awesome VOID9 macropad with some changes.
+It is a remix of Victor Lucachi's awesome VOID9 macropad with some changes.
 
 At first i changed the default firmware from QMK to VIAL as there is a GUI for the configuration. Furthermore i added LED underglow because, let's face it, RGB is 
 a must for a keyboard (no matter what size). 
