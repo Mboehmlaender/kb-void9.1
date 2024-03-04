@@ -17,8 +17,8 @@
   <a href="https://github.com/Mboehmlaender/kb-void9.1/issues/">
     <img src="https://img.shields.io/github/issues/Mboehmlaender/kb-void9.1" alt="open issues" />
   </a>
-  <a href="https://github.com/Mboehmlaender/kb-void9.1/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Mboehmlaender/kb-void9.1.svg" alt="license" />
+  <a href="https://github.com/mboehmlaender/kb-void9.1/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/mboehmlaender/kb-void9.1.svg" alt="license" />
   </a>
 </p>
    
