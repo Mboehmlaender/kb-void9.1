@@ -163,12 +163,15 @@ make void91:default
 <!-- License -->
 ## License
 
-Relased under GNU General Public License v2.0 or later
+Relased under Creative Commons BY-NC-SA 4.0 DEED
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+- credit must be given to the creator.
+- Only noncommercial uses of the work are permitted.
+- Adaptations must be shared under the same terms.
 
+[<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="117" height="41">](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <!-- Acknowledgments -->
 ## Acknowledgements
 
