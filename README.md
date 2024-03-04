@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/issues/Mboehmlaender/kb-void9.1" alt="open issues" />
   </a>
   <a href="https://github.com/Mboehmlaender/kb-void9.1/blob/master/LICENSE">
-    <img alt="Static Badge" src="https://img.shields.io/badge/license-CC_BY_SA_4.0-blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/license-CC_BY_NC_SA_4.0-blue">
   </a>
 </p>
    
