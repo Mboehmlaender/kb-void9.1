@@ -163,7 +163,7 @@ make void91:default
 <!-- License -->
 ## License
 
-Relased under Creative Commons BY-NC-SA 4.0 DEED
+Released under Creative Commons BY-NC-SA 4.0 DEED
 
 This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:
 
